@@ -16,6 +16,11 @@ I bring together real-world experience from industrial environments and a growin
   - Photo evidence and reports
   - Dashboards for leaders and safety teams
   - Future integration with AI for insights and prevention
+ 
+  - 🧠 **Fuzzy Logic Lab**  
+  An AI fundamentals project comparing deterministic logic and Fuzzy Logic for decision-making under uncertainty.  
+  👉 https://github.com/nayara-berti/fuzzy-logic-lab
+
 
 - 📚 **Learning Log**  
   A public journal of my journey in tech:
