@@ -60,7 +60,7 @@ I believe great technology starts with understanding people and their challenges
 
 ## 📫 Let's connect
 
-- LinkedIn: *(add your link here when ready)*  
+- LinkedIn: https://www.linkedin.com/in/nayaraberti  
 - Location: Brazil 🇧🇷  
 - Open to opportunities in tech, safety innovation, and learning-focused environments
 
