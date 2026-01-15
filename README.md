@@ -11,29 +11,32 @@ I bring together real-world experience from industrial environments and a growin
 ## 🚀 What I'm building
 
 - 🦺 **Safety Audit App (SAST)**  
-  A platform to digitalize behavioral audits and safety inspections, combining:
-  - Risk classification (Low / Medium / High)
-  - Photo evidence and reports
-  - Dashboards for leaders and safety teams
-  - Future integration with AI for insights and prevention
- 
-  - 🧠 **Fuzzy Logic Lab**  
-  An AI fundamentals project comparing deterministic logic and Fuzzy Logic for decision-making under uncertainty.  
+  Product concept for a behavioral safety audit platform designed with Agile methods.  
+  It transforms field observations into structured, actionable data for preventive safety management.  
+  👉 https://github.com/nayara-berti/safety-audit-app
+
+- 🧠 **Fuzzy Logic Lab**  
+  AI fundamentals project comparing deterministic logic and Fuzzy Logic for decision-making under uncertainty.  
   👉 https://github.com/nayara-berti/fuzzy-logic-lab
 
+- ⚙️ **CI/CD Pipeline Lab**  
+  DevOps project demonstrating a complete CI/CD pipeline with Docker, automation scripts, and modern infrastructure practices.  
+  👉 https://github.com/nayara-berti/ci-cd-pipeline-lab
 
 - 📚 **Learning Log**  
-  A public journal of my journey in tech:
-  - What I study
-  - What I build
-  - My challenges and breakthroughs
+  My public journal documenting my transition into tech: studies, challenges, experiments, and growth.  
+  👉 https://github.com/nayara-berti/learning-log
 
-- 🧪 **Labs & Experiments**  
-  Small projects and experiments with:
-  - Python
-  - Web development
-  - AI & prompt engineering
-  - Data and automation
+---
+
+## 🧪 Labs & Experiments
+
+Small projects and experiments with:
+
+- Python  
+- Web development  
+- AI & prompt engineering  
+- Data and automation  
 
 ---
 
@@ -44,7 +47,7 @@ I bring together real-world experience from industrial environments and a growin
 - Git & GitHub  
 - Generative AI & Prompt Engineering  
 - Data & Automation  
-- (Soon) Web frameworks and databases
+- (Soon) Web frameworks and databases  
 
 ---
 
@@ -54,10 +57,10 @@ I come from the field — factories, railways, operations, real risks.
 Now, I’m learning how to transform those realities into **digital solutions**.
 
 This profile is my open notebook:
-- You’ll see experiments
-- Incomplete ideas
-- Growth over time
-- And real projects evolving
+- You’ll see experiments  
+- Incomplete ideas  
+- Growth over time  
+- And real projects evolving  
 
 I believe great technology starts with understanding people and their challenges.
 
@@ -67,6 +70,6 @@ I believe great technology starts with understanding people and their challenges
 
 - LinkedIn: https://www.linkedin.com/in/nayaraberti  
 - Location: Brazil 🇧🇷  
-- Open to opportunities in tech, safety innovation, and learning-focused environments
+- Open to opportunities in tech, safety innovation, and learning-focused environments  
 
 Thanks for stopping by. This is just the beginning. 💙
