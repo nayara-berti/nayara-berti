@@ -1,5 +1,7 @@
 # Hi, I'm Nayara 👋
 
+![Snake animation](assets/github-contribution-grid-snake.svg)
+
 I'm a **Software Engineering student** with a background in **Occupational Safety**, currently transitioning into the tech world with a clear purpose:
 
 > Build technology that improves workplace safety, efficiency, and sustainability.
