@@ -12,10 +12,12 @@
 # 🇧🇷 Português
 
 🎓 Estudante de Engenharia de Software  
-🦺 Experiência anterior em Segurança do Trabalho  
-💡 Construindo soluções que conectam tecnologia, segurança e usabilidade
+🦺 14+ anos de experiência em Segurança do Trabalho  
+💡 Conectando tecnologia, segurança e experiência do usuário
 
-Atualmente em transição para a área de tecnologia, com foco em desenvolvimento de software, aplicações mobile e soluções orientadas a produto.
+Sou uma profissional em transição estratégica para a área de tecnologia, aplicando visão sistêmica, gestão de risco e pensamento analítico no desenvolvimento de software.
+
+Meu objetivo é construir soluções digitais com impacto real, especialmente em ambientes industriais e operacionais.
 
 ---
 
@@ -26,6 +28,7 @@ Atualmente em transição para a área de tecnologia, com foco em desenvolviment
 - Inteligência Artificial e Prompt Engineering
 - DevOps Foundations
 - Soluções digitais aplicadas à segurança operacional
+- Estrutura de Dados e Arquitetura de Software
 
 ---
 
@@ -36,8 +39,9 @@ Plataforma conceitual para auditoria comportamental de segurança com abordagem 
 👉 https://github.com/nayara-berti/safety-audit-app  
 
 🍔 **HamburgueriaZ (Android App)**  
-Aplicativo mobile simulando sistema de pedidos com cálculo dinâmico e integração via Intent.  
-(Em breve no perfil)
+Projeto de evolução arquitetural mobile (Java + Android).
+Demonstra separação de camadas, lógica desacoplada e preparação para agente inteligente de atendimento.
+🔗 https://github.com/nayara-berti/hamburgueriaz-academic
 
 ⚙️ **CI/CD Pipeline Lab**  
 Projeto DevOps demonstrando pipeline completo com Docker e automação.  
@@ -67,10 +71,12 @@ Aberta a oportunidades em tecnologia, inovação e ambientes de aprendizado.
 # 🇺🇸 English
 
 🎓 Software Engineering Student  
-🦺 Background in Occupational Safety  
-💡 Building solutions that connect technology, safety and usability
+🦺 14+ years of experience in Occupational Safety
+💡 Connecting technology, safety, and user experience
 
-Currently transitioning into tech, focusing on software development, mobile applications and product-oriented solutions.
+I am a professional in a strategic transition into the technology field, applying systems thinking, risk management, and analytical reasoning to software development.
+
+My goal is to build digital solutions with real impact, especially in industrial and operational environments.
 
 ---
 
@@ -81,6 +87,7 @@ Currently transitioning into tech, focusing on software development, mobile appl
 - AI & Prompt Engineering
 - DevOps Foundations
 - Digital solutions applied to operational safety
+- Software Architecture & System Design
 
 ---
 
