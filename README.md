@@ -41,7 +41,6 @@ Plataforma conceitual para auditoria comportamental de segurança com abordagem 
 🍔 **HamburgueriaZ (Android App)**  
 Projeto de evolução arquitetural mobile (Java + Android).
 Demonstra separação de camadas, lógica desacoplada e preparação para agente inteligente de atendimento.
-
 👉 https://github.com/nayara-berti/hamburgueriaz-academic
 
 ⚙️ **CI/CD Pipeline Lab**  
