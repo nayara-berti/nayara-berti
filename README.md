@@ -12,24 +12,25 @@
 # 🇧🇷 Português
 
 🎓 Estudante de Engenharia de Software  
-🦺 14+ anos de experiência em Segurança do Trabalho  
+🦺 15+ anos de experiência em Segurança do Trabalho  
 💡 Transformando experiência operacional em soluções digitais com propósito real  
 
-Sou uma profissional em transição estratégica para a área de tecnologia, conectando **Segurança do Trabalho, Engenharia de Software e Inteligência Artificial** para construir soluções mais acessíveis, organizadas e aplicáveis a contextos reais.
+Sou uma profissional em transição estratégica para a área de tecnologia, conectando **Segurança do Trabalho, Engenharia de Software e Inteligência Artificial** para desenvolver soluções com aplicação prática, visão de produto e impacto real.
 
-Minha trajetória combina **visão sistêmica, gestão de riscos, experiência operacional e pensamento analítico**, hoje direcionados ao desenvolvimento de software com foco em impacto prático.
+Minha trajetória une **gestão de riscos, experiência operacional, pensamento analítico e visão sistêmica**, hoje direcionados à construção de software mais acessível, estruturado e aderente a contextos reais de uso.
 
 ---
 
 ## 🌟 Missão em Construção
 
-Meu objetivo é desenvolver projetos que unam:
+Meu objetivo é criar projetos que integrem:
+
 - tecnologia com aplicação real;
 - arquitetura com clareza;
 - inteligência com utilidade;
-- software com impacto em ambientes industriais, operacionais e de segurança.
+- software com impacto em ambientes industriais, operacionais, educacionais e de segurança.
 
-Estou construindo uma jornada voltada para a criação de soluções que demonstrem não apenas aprendizado técnico, mas também **visão de produto, estrutura e propósito**.
+Mais do que aprender ferramentas, busco construir soluções que demonstrem **organização, raciocínio estruturado, evolução técnica e propósito**.
 
 ---
 
@@ -41,29 +42,38 @@ Estou construindo uma jornada voltada para a criação de soluções que demonst
 - Fundamentos de DevOps
 - Arquitetura de Software e organização de projetos
 - Soluções digitais aplicadas à segurança operacional
+- Agentes inteligentes com foco educacional e experiência do usuário
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+💸 **TOM – Agente de Educação Financeira**  
+Agente virtual com foco em educação financeira responsável, criado para orientar usuários de forma clara, segura e didática sobre organização financeira, gastos, planejamento e conceitos básicos de finanças.  
+O projeto explora construção de prompts, base de conhecimento, regras de segurança e experiência conversacional aplicada a um contexto educativo.  
+👉 [Ver projeto](https://github.com/nayara-berti/dio-lab-bia-do-futuro)
+
 🦺 **Safety Audit App (SAST)**  
-Plataforma conceitual para auditoria comportamental de segurança, com foco em inspeções, classificação de desvios e visão evolutiva de produto.  
+Plataforma conceitual para auditoria comportamental de segurança, com foco em inspeções, classificação de desvios, rastreabilidade e visão evolutiva de produto.  
+Conecta minha experiência em Segurança do Trabalho à construção de soluções digitais voltadas para contexto operacional real.  
 👉 [Ver projeto](https://github.com/nayara-berti/safety-audit-app)
 
 🎙️ **SafeVoice SST**  
-Assistente de voz para orientação preliminar em Segurança do Trabalho, com transcrição de áudio, consulta local e resposta em voz.  
+Assistente de voz para orientação preliminar em Segurança do Trabalho, com transcrição de áudio, consulta a base local e resposta em voz.  
+Projeto que une acessibilidade, IA aplicada e disseminação de conhecimento técnico em SST.  
 👉 [Ver projeto](https://github.com/nayara-berti/safevoice-sst)
 
 🍔 **HamburgueriaZ (Android App)**  
-Projeto de evolução arquitetural mobile em Java/Android, demonstrando separação de camadas, desacoplamento de lógica e preparação para futuras integrações inteligentes.  
+Projeto mobile em Java/Android com foco em evolução arquitetural, separação de camadas e desacoplamento de lógica.  
+Representa minha preocupação em transformar projetos acadêmicos em demonstrações mais maduras de estrutura e organização de software.  
 👉 [Ver projeto](https://github.com/nayara-berti/hamburgueriaz-academic)
 
 ⚙️ **CI/CD Pipeline Lab**  
-Projeto DevOps demonstrando pipeline completo com Docker, automação e organização de fluxo de entrega contínua.  
+Projeto DevOps voltado à demonstração de pipeline completo com Docker, automação e organização de fluxo de entrega contínua.  
 👉 [Ver projeto](https://github.com/nayara-berti/ci-cd-pipeline-lab)
 
 🧠 **Fuzzy Logic Lab**  
-Projeto explorando lógica determinística e lógica nebulosa para apoiar a tomada de decisão em cenários com incerteza.  
+Projeto explorando lógica determinística e lógica nebulosa para apoio à tomada de decisão em cenários com incerteza.  
 👉 [Ver projeto](https://github.com/nayara-berti/fuzzy-logic-lab)
 
 ---
@@ -77,20 +87,23 @@ Java • Python • HTML • CSS • JavaScript
 Android • Git • GitHub • Google Colab • Docker
 
 **Estudos e Interesse Atual**  
-IA Generativa • Prompt Engineering • DevOps • Arquitetura de Software
+IA Generativa • Prompt Engineering • DevOps • Arquitetura de Software • Agentes Inteligentes
 
 ---
 
 ## 🌱 O que estou construindo
 
-Estou desenvolvendo uma trajetória que conecta minha experiência consolidada em **Segurança do Trabalho** com a criação de soluções tecnológicas mais inteligentes, acessíveis e bem estruturadas.
+Estou construindo uma trajetória que conecta minha experiência consolidada em **Segurança do Trabalho** com o desenvolvimento de soluções tecnológicas mais inteligentes, acessíveis e bem estruturadas.
 
-Meu foco está em aprender, evoluir e construir projetos que demonstrem:
-- raciocínio estruturado;
+Meu foco está em evoluir continuamente e criar projetos que demonstrem:
+
 - aplicação prática;
-- organização arquitetural;
-- visão de produto;
-- evolução técnica contínua.
+- clareza arquitetural;
+- organização de produto;
+- raciocínio estruturado;
+- aprendizado técnico com propósito.
+
+Acredito em tecnologia como ponte entre conhecimento, eficiência, segurança e experiência real do usuário.
 
 ---
 
@@ -106,24 +119,25 @@ Aberta a oportunidades em tecnologia, inovação e ambientes de aprendizado cont
 # 🇺🇸 English
 
 🎓 Software Engineering Student  
-🦺 14+ years of experience in Occupational Safety  
+🦺 15+ years of experience in Occupational Safety  
 💡 Transforming operational experience into digital solutions with real-world purpose  
 
-I am a professional making a strategic transition into tech, connecting **Occupational Safety, Software Engineering, and Artificial Intelligence** to build more accessible, organized, and practical solutions for real-world contexts.
+I am a professional making a strategic transition into tech, connecting **Occupational Safety, Software Engineering, and Artificial Intelligence** to develop solutions with practical application, product vision, and real-world impact.
 
-My background combines **systems thinking, risk management, operational experience, and analytical reasoning**, now directed toward software development with a focus on practical impact.
+My background combines **risk management, operational experience, analytical thinking, and systems vision**, now directed toward building software that is more accessible, structured, and aligned with real usage contexts.
 
 ---
 
 ## 🌟 Mission in Progress
 
-My goal is to develop projects that combine:
+My goal is to create projects that integrate:
+
 - technology with real-world application;
 - architecture with clarity;
 - intelligence with usefulness;
-- software with impact in industrial, operational, and safety-focused environments.
+- software with impact across industrial, operational, educational, and safety-focused environments.
 
-I am building a path focused on creating solutions that demonstrate not only technical learning, but also **product vision, structure, and purpose**.
+More than learning tools, I aim to build solutions that demonstrate **organization, structured thinking, technical growth, and purpose**.
 
 ---
 
@@ -135,21 +149,30 @@ I am building a path focused on creating solutions that demonstrate not only tec
 - DevOps Foundations
 - Software Architecture and project organization
 - Digital solutions applied to operational safety
+- Intelligent agents focused on education and user experience
 
 ---
 
 ## 🚀 Featured Projects
 
+💸 **TOM – Financial Education Agent**  
+A virtual agent focused on responsible financial education, designed to guide users clearly, safely, and didactically on financial organization, spending, planning, and basic finance concepts.  
+This project explores prompt design, knowledge base structuring, safety rules, and conversational experience applied to an educational context.  
+👉 [View project](https://github.com/nayara-berti/dio-lab-bia-do-futuro)
+
 🦺 **Safety Audit App (SAST)**  
-Conceptual platform for behavioral safety audits, focused on inspections, deviation classification, and product-oriented evolution.  
+Conceptual platform for behavioral safety audits, focused on inspections, deviation classification, traceability, and product-oriented evolution.  
+It connects my Occupational Safety background with the development of digital solutions for real operational environments.  
 👉 [View project](https://github.com/nayara-berti/safety-audit-app)
 
 🎙️ **SafeVoice SST**  
 Voice assistant for preliminary Occupational Safety guidance, with audio transcription, local knowledge lookup, and spoken response.  
+A project that combines accessibility, applied AI, and technical knowledge dissemination in Occupational Safety.  
 👉 [View project](https://github.com/nayara-berti/safevoice-sst)
 
 🍔 **HamburgueriaZ (Android App)**  
-Mobile architecture evolution project in Java/Android, demonstrating separation of concerns, decoupled logic, and preparation for future intelligent integrations.  
+Java/Android mobile project focused on architectural evolution, separation of concerns, and decoupled logic.  
+It reflects my effort to turn academic projects into more mature demonstrations of software structure and organization.  
 👉 [View project](https://github.com/nayara-berti/hamburgueriaz-academic)
 
 ⚙️ **CI/CD Pipeline Lab**  
@@ -171,20 +194,23 @@ Java • Python • HTML • CSS • JavaScript
 Android • Git • GitHub • Google Colab • Docker
 
 **Current Studies and Interests**  
-Generative AI • Prompt Engineering • DevOps • Software Architecture
+Generative AI • Prompt Engineering • DevOps • Software Architecture • Intelligent Agents
 
 ---
 
 ## 🌱 What I am building
 
-I am building a path that connects my solid background in **Occupational Safety** with the creation of smarter, more accessible, and better-structured technology solutions.
+I am building a path that connects my solid background in **Occupational Safety** with the development of smarter, more accessible, and better-structured technology solutions.
 
-My focus is to learn, grow, and develop projects that demonstrate:
-- structured thinking;
+My focus is on continuous growth and on building projects that demonstrate:
+
 - practical application;
-- architectural organization;
-- product vision;
-- continuous technical growth.
+- architectural clarity;
+- product organization;
+- structured thinking;
+- purposeful technical learning.
+
+I believe technology can serve as a bridge between knowledge, efficiency, safety, and real user experience.
 
 ---
 
