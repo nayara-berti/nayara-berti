@@ -11,7 +11,7 @@
 
 # 🇧🇷 Português
 
-🎓 Bacharela em Engenharia de Software  
+🎓 Bacharel em Engenharia de Software  
 🦺 15+ anos de experiência em Segurança do Trabalho  
 💡 Transformando experiência operacional em soluções digitais com propósito real  
 
