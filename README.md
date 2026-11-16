@@ -11,7 +11,7 @@
 
 # 🇧🇷 Português
 
-🎓 Estudante de Engenharia de Software  
+🎓 Bacharela em Engenharia de Software  
 🦺 15+ anos de experiência em Segurança do Trabalho  
 💡 Transformando experiência operacional em soluções digitais com propósito real  
 
@@ -118,7 +118,7 @@ Aberta a oportunidades em tecnologia, inovação e ambientes de aprendizado cont
 
 # 🇺🇸 English
 
-🎓 Software Engineering Student  
+🎓 Software Engineering Graduate  
 🦺 15+ years of experience in Occupational Safety  
 💡 Transforming operational experience into digital solutions with real-world purpose  
 
